@@ -7,8 +7,8 @@ Notes and small experiments about OS, C/C++, computer architecture, and low-leve
 
 ## purpose
 - 学んだ内容を外から見える形にする。
-- 授業・Pintos・自作OS・C++実験を整理する
-- インタ０ンや面接で語れる材料を蓄積する
+- 理情の授業・Pintos・自作OS・C++実験を整理する
+- 外部で語れる材料を蓄積する
 
 ## Contents
 - OS notes
