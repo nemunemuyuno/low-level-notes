@@ -1,8 +1,5 @@
 # low-level-notes
 Notes and small experiments about OS, C/C++, computer architecture, and low-level systems.
-
-
-## 目的
 低レイヤ、OS、C/C++、計算機システムについて学んだことを、小さな実験、設計メモ、読書メモとして残すためのレポジトリ。
 
 ## purpose
